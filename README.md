@@ -1,2 +1,2 @@
 # First_Projects
-This are my projects as a beginner 
+These are my projects as a beginner 
